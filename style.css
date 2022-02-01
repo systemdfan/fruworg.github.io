@@ -1,9 +1,9 @@
 @media (max-aspect-ratio: 1/1) {
 body {
-    background-color: white; /* Цвет фона веб-страницы */
-    color: black; /* Цвет текста */
+    background-color: black; /* Цвет фона веб-страницы */
+    color: white; /* Цвет текста */
     padding-top: 0.5%; /* Отступ сверху */
-    padding-left: 20%; /* Отступ слева */
+    padding-left: 10%; /* Отступ слева */
     font-size: 30pt /* Размер шрифта */
    }
 A, A:visited, A:active {
