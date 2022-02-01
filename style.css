@@ -1,12 +1,16 @@
-@media (max-aspect-ratio: 1/1) {
 body {
     background-color: black; /* Цвет фона веб-страницы */
     color: white; /* Цвет текста */
     padding-top: 0.5%; /* Отступ сверху */
     padding-left: 20%; /* Отступ слева */
-    font-size: 11pt /**/
+    font-size: 11pt /* Размер шрифта */
    }
 A, A:visited, A:active {
     color: white; /* Цвет ссылок */
    }
+
+@media (max-aspect-ratio: 1/1) {
+    body {
+        font-size: 30pt /* Размер шрифта */
+   ]
 }
