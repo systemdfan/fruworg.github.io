@@ -1,4 +1,4 @@
-/*@media (min-aspect-ratio: 1/1) {
+@media (min-aspect-ratio: 1/1) {
 body {
     background-color: black; /* Цвет фона веб-страницы */
     color: white; /* Цвет текста */
@@ -9,4 +9,4 @@ body {
 A, A:visited, A:active {
     color: white; /* Цвет ссылок */
    }
-}*/
+}
