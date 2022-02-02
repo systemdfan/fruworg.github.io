@@ -1,23 +1,26 @@
-body {
-    background-color: black; /* Цвет фона веб-страницы */
-    color: white; /* Цвет текста */
-    padding-top: 0.5%; /* Отступ сверху */
+body
+{
+	background-color: black;
+	color: white;
+	padding-top: 0.5%;
 }
-
-A, A:visited, A:active {
-    color: white; /* Цвет ссылок */
+A, A:visited, A:active
+{
+	color: white;
 }
-
-@media (max-aspect-ratio: 1/1) {
-body {
-    padding-left: 10%; /* Отступ слева */
-    font-size: 30pt /* Размер шрифта */
-   }
-}   
-
-@media (min-aspect-ratio: 1/1) {
-body {
-    padding-left: 20%; /* Отступ слева */
-    font-size: 11pt /* Размер шрифта */
-   }
+@media (max-aspect-ratio: 1/1)
+{
+	body
+	{
+		font-size: 30pt;
+		padding-left: 10%;
+	}
+}
+@media (min-aspect-ratio: 1/1)
+{
+	body
+	{
+		font-size: 11pt;
+		padding-left: 20%;
+	}
 }
