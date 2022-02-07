@@ -1,12 +1,12 @@
 body
 {
 	background-color: black;
-	color: white;
+	color: green;
 	padding-top: 0.5%;
 }
 A, A:visited, A:active
 {
-	color: white;
+	color: green;
 }
 @media (max-aspect-ratio: 1/1)
 {
