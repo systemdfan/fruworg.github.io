@@ -8,6 +8,11 @@ A, A:visited, A:active
 {
 	color: white;
 }
+
+li {
+  float: left;
+}
+
 @media (max-aspect-ratio: 1/1)
 {
 	body
