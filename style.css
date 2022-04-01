@@ -16,10 +16,10 @@ A, A:visited, A:active
 .column {
     float: left;
     width: 50%;
-    text-align: center;
 }
 
 .row:after {
+    text-align: center;
     content: "";
     display: table;
     clear: both;
