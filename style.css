@@ -23,20 +23,3 @@ A, A:visited, A:active
     display: table;
     clear: both;
 }
-
-@media (max-aspect-ratio: 1/1)
-{
-	body
-	{
-		font-size: 30pt;
-		padding-left: 10%;
-	}
-}
-@media (min-aspect-ratio: 1/1)
-{
-	body
-	{
-		font-size: 11pt;
-		padding-left: 20%;
-	}
-}
