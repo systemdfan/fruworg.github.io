@@ -15,7 +15,6 @@ A, A:visited, A:active
     
 .column {
     float: left;
-    width: 50%;
 }
 
 .row:after {
