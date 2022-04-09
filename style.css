@@ -19,7 +19,6 @@ A, A:visited, A:active
 }
 
 .row:after {
-    text-align: center;
     content: "";
     display: table;
     clear: both;
